@@ -33,3 +33,10 @@ Both Chatflow and Workflow applications support the SiliconFlow tool node. After
 #### Agent applications
 
 Add the SiliconFlow tool in the Agent application, then send a picture description in the dialog box to call the tool to generate an AI image.
+
+
+#### About SiliconFlow
+
+SiliconFlow is committed to building a scalable, standardized, and high-performance AI Infra platform. It offers SiliconCloud (the model cloud service platform), SiliconLLM (the LLM inference engine), and OneDiff (the high-performance text-to-image/video acceleration library). These solutions help enterprises and individual users deploy AI models efficiently and cost-effectively.
+
+[Website](https://siliconflow.cn/) | [SiliconCloud](https://siliconflow.cn/zh-cn/siliconcloud) | [Discord](https://discord.gg/3nAMSVJekY) | [X](https://twitter.com/SiliconFlowAI) | [Zhihu](https://www.zhihu.com/org/huo-ji-liu-dong)
